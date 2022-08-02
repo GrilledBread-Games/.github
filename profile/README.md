@@ -1,4 +1,6 @@
-# .github
+# Grilled Bread Games
+
+![Grilled Bread Games](bread.png)
 
 A very real game dev studio
 
